@@ -10,6 +10,13 @@
 
 ![留光：给大疆 Action 补上间隔录像](docs/assets/promo/luma-douyin-landscape-4x3.png)
 
+## 宣传与演示
+
+- [87 秒中文 4K 宣传片](https://github.com/gintmr/DJI-Luma/raw/refs/heads/main/docs/assets/promo/luma-promo-zh-4k.mp4)
+- [22 秒中文相机 × 手机同步演示](docs/assets/video/luma-split-zh-4k.mp4) · [English demo](docs/assets/video/luma-split-en-4k.mp4)
+- 封面：[横版 4:3](docs/assets/promo/luma-douyin-landscape-4x3.png)、[竖版 3:4](docs/assets/promo/luma-douyin-portrait-3x4.png)、[方形 1:1](docs/assets/promo/luma-douyin-square-1x1.png)
+- [宣传素材与音乐署名](docs/assets/promo/CREDITS.md)
+
 ## 开始复现
 
 1. 准备安卓手机、数据线和相机；在手机打开开发者选项与 USB 调试，并授权自己的电脑。
@@ -32,42 +39,10 @@
 | 定时逻辑 | 间隔按两次开录的开始时间计算 |
 | 自动唤醒 | 尚未实现，任务中需让相机保持开机 |
 
-先试录短片，再验证锁屏、后台与长任务。首次连接、系统权限和后台设置见[安装与首轮验证](docs/workflow/reproduction-manual.md)。本仓库提供测试二进制；当前公开范围以复现工作流、网站和参考素材为主。
+先试录短片，再验证锁屏、后台与长任务。首次连接、系统权限和后台设置见[安装与首轮验证](docs/workflow/reproduction-manual.md)。
 
-## 宣传与演示
+## 许可
 
-- [87 秒中文 4K 宣传片](https://github.com/gintmr/DJI-Luma/raw/refs/heads/main/docs/assets/promo/luma-promo-zh-4k.mp4)
-- [22 秒中文相机 × 手机同步演示](docs/assets/video/luma-split-zh-4k.mp4) · [English demo](docs/assets/video/luma-split-en-4k.mp4)
-- 封面：[横版 4:3](docs/assets/promo/luma-douyin-landscape-4x3.png)、[竖版 3:4](docs/assets/promo/luma-douyin-portrait-3x4.png)、[方形 1:1](docs/assets/promo/luma-douyin-square-1x1.png)
-- [宣传素材与音乐署名](docs/assets/promo/CREDITS.md)
-
-## 网站预览与部署
-
-网站是纯静态 HTML / CSS / JavaScript，从共享 [gintmr-ui](https://github.com/gintmr/gintmr-ui) 固定版本接入样式与导航，不需要前端构建服务。
-
-```sh
-python3 -m http.server 8767 --bind 127.0.0.1 --directory docs
-```
-
-打开 <http://127.0.0.1:8767/>。
-
-GitHub Pages 设置：**Settings → Pages → Deploy from a branch → main → /docs → Save**。部署后网站位于 <https://gintmr.github.io/DJI-Luma/>。资源使用相对路径，支持项目子路径部署。
-
-修改主手册后重新生成页面和复现包：
-
-```sh
-python3 scripts/render-workflow.py
-python3 scripts/render-workflow.py --lang=en
-python3 scripts/check-website.py
-```
-
-共享 UI 更新与维护方式见 [WEBSITE.md](WEBSITE.md)。
-
-## 仓库内容与许可
-
-- `docs/`：双语网站、复现手册与任务包、界面参考、测试 APK、演示及宣传素材。
-- `scripts/`：静态页面生成、检查与共享 UI 同步脚本。
-
-本仓库原创工作流、文档、网站代码和维护脚本采用 [MIT License](LICENSE)。第三方代码、测试 APK 中的组件和宣传配乐遵循各自许可，见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
+本仓库原创工作流与文档采用 [MIT License](LICENSE)。第三方代码、测试 APK 中的组件和宣传配乐遵循各自许可，见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
 
 Built with agents.
