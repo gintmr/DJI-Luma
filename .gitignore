@@ -1,0 +1,25 @@
+# Public distribution allowlist: keep the local development workspace private.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/THIRD_PARTY_NOTICES.md
+!/WEBSITE.md
+!/docs/
+!/scripts/
+/scripts/*
+!/scripts/check-website.py
+!/scripts/render-workflow.py
+!/scripts/render-reference-pages.py
+!/scripts/sync-ui.py
+
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+*.jks
+*.keystore
+*.pcap
+*.pcapng
+*.bin

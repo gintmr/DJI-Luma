@@ -1,0 +1,10 @@
+{
+  "name": "留光 · Luma",
+  "version": "0.7.1",
+  "package": "local.intervalvlog",
+  "apk": "downloads/luma-0.7.1-test.apk",
+  "source": "android/build/luma-0.7.1.apk",
+  "screenshots": "0.7.1 native UiCheck renders",
+  "bytes": 951305,
+  "sha256": "ea542f232ce9ade97ea5360ce5ab8cdb117b45992a73aa5681cdaeebc4d9b6a4"
+}

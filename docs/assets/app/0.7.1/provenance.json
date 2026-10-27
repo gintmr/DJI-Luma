@@ -1,0 +1,137 @@
+{
+  "app_version": "0.7.1",
+  "capture": "UiCheck native view render on Samsung S25 FE",
+  "camera_connected_for_capture": false,
+  "physical_rotation_revalidated": false,
+  "record_page": "Use separately labeled structure diagrams; raw event logs are not published.",
+  "files": {
+    "zh-dark-shooting.png": {
+      "source": "android/brand/website-0.7.1-zh/dark-0.png",
+      "sha256": "330f476a26e22d47cb71f92d923262d59ab62c0080809b4e07033e6316ed5326"
+    },
+    "zh-dark-camera.png": {
+      "source": "android/brand/website-0.7.1-zh/dark-1.png",
+      "sha256": "b96c5c7ceaa2695a3864b4f1b463bcb48f71f7e4fc5b74b330e32011f97dc211"
+    },
+    "zh-dark-settings.png": {
+      "source": "android/brand/website-0.7.1-zh/dark-3.png",
+      "sha256": "835d6262e98099e6ecc354939867e754db11f0383bd2bad40305bf5ee8448f97"
+    },
+    "zh-dark-live.png": {
+      "source": "android/brand/website-0.7.1-zh/dark-observe-0.png",
+      "sha256": "c381d12c50b84c43782425c197f6cd5682c4ca6c5fbdb931480e335c32f96d9c"
+    },
+    "zh-dark-parameters.png": {
+      "source": "android/brand/website-0.7.1-zh/dark-observe-1.png",
+      "sha256": "926ad95dc5eec8479661f2809defb7ffce2d2478f58a0f07b64a910737dc811e"
+    },
+    "zh-dark-album.png": {
+      "source": "android/brand/website-0.7.1-zh/dark-observe-2.png",
+      "sha256": "4654d0b864bb275a4deac35c5f5d1351fd85f4e2f25b72d3d57b9659ac6eb896"
+    },
+    "zh-dark-live-4-3.png": {
+      "source": "android/brand/website-0.7.1-zh/dark-observe-4-3.png",
+      "sha256": "99bf9390dfa1005b2fd5914eede9493a55e6451f547051007465af18ee4fde1d"
+    },
+    "zh-dark-fullscreen.png": {
+      "source": "android/brand/website-0.7.1-zh/dark-fullscreen.png",
+      "sha256": "9cb68837d5be40a4c8406756d048dc9dd615de201219955de99534cb2910c453"
+    },
+    "zh-light-shooting.png": {
+      "source": "android/brand/website-0.7.1-zh/light-0.png",
+      "sha256": "4eb9f056e5a25a901d10af1fc0f474a2d1157cfff076466ce5baa8f074e4a5f4"
+    },
+    "zh-light-camera.png": {
+      "source": "android/brand/website-0.7.1-zh/light-1.png",
+      "sha256": "e17702e0d9a4466ab07726bfdf18f6a0a0c256546a787face8fe92eeb38a56c7"
+    },
+    "zh-light-settings.png": {
+      "source": "android/brand/website-0.7.1-zh/light-3.png",
+      "sha256": "dc2f4b9e460d60ada7d9db7d9cd88e5fed40d0697f8cf86215be137a30d70689"
+    },
+    "zh-light-live.png": {
+      "source": "android/brand/website-0.7.1-zh/light-observe-0.png",
+      "sha256": "cab78c98db16a09a855bba974f4a10dfa970c111832caa153f32eaf7316da955"
+    },
+    "zh-light-parameters.png": {
+      "source": "android/brand/website-0.7.1-zh/light-observe-1.png",
+      "sha256": "c742dfb26f03342fbd9a455927dfbd471f1965ce6908407d43c0848e3a1a477b"
+    },
+    "zh-light-album.png": {
+      "source": "android/brand/website-0.7.1-zh/light-observe-2.png",
+      "sha256": "206781096ad20fbeeba9652eaee55e04811ef2fd8515c3b198931755fdc24f9c"
+    },
+    "zh-light-live-4-3.png": {
+      "source": "android/brand/website-0.7.1-zh/light-observe-4-3.png",
+      "sha256": "9acea0426ea2a2428fbea98138cebe210467d539174e220af432ad807a707ca0"
+    },
+    "zh-light-fullscreen.png": {
+      "source": "android/brand/website-0.7.1-zh/light-fullscreen.png",
+      "sha256": "9cb68837d5be40a4c8406756d048dc9dd615de201219955de99534cb2910c453"
+    },
+    "en-dark-shooting.png": {
+      "source": "android/brand/website-0.7.1-en/dark-0.png",
+      "sha256": "7f80ffe968b1699a4c064938a70152a0bf25b9379fb8f562c3ceb6c039d25a21"
+    },
+    "en-dark-camera.png": {
+      "source": "android/brand/website-0.7.1-en/dark-1.png",
+      "sha256": "ff7fb101c1fa4b90691c28abf121d73c739bc7c5188403bac7bae8979fcc97be"
+    },
+    "en-dark-settings.png": {
+      "source": "android/brand/website-0.7.1-en/dark-3.png",
+      "sha256": "446e5389a1fa130e7b801ceb20e6fb492e0763a37e34928c97c142de5bd3e7b4"
+    },
+    "en-dark-live.png": {
+      "source": "android/brand/website-0.7.1-en/dark-observe-0.png",
+      "sha256": "85956abdeccc3ffa87b1a63783fc1d4c41e6d6b6311416e9f6f73c55e9363ca3"
+    },
+    "en-dark-parameters.png": {
+      "source": "android/brand/website-0.7.1-en/dark-observe-1.png",
+      "sha256": "1e715f091341a55717fb440c5972cb9a392b40688f1dd0b7526fbecf6b694916"
+    },
+    "en-dark-album.png": {
+      "source": "android/brand/website-0.7.1-en/dark-observe-2.png",
+      "sha256": "c1d9fd590d1b24e6f84c1e70f974a8cacb618d5a1a026e339df0ad9d1018fabb"
+    },
+    "en-dark-live-4-3.png": {
+      "source": "android/brand/website-0.7.1-en/dark-observe-4-3.png",
+      "sha256": "c0c7ca74278fd5610cff55c54471b42bee68e9aaf8c7caaa678e575551d41b62"
+    },
+    "en-dark-fullscreen.png": {
+      "source": "android/brand/website-0.7.1-en/dark-fullscreen.png",
+      "sha256": "12ef4122484b376f7410144e955b9938d7f5bb3544025c89324501bb33e6f023"
+    },
+    "en-light-shooting.png": {
+      "source": "android/brand/website-0.7.1-en/light-0.png",
+      "sha256": "2f576acc8788e8154f9c1574c4af876a233bba48b99cc3aec04920c97fc33201"
+    },
+    "en-light-camera.png": {
+      "source": "android/brand/website-0.7.1-en/light-1.png",
+      "sha256": "c51bf6459fca303ef615a43d887c75679a799b64f154aa7f6617b8a8f7e801cd"
+    },
+    "en-light-settings.png": {
+      "source": "android/brand/website-0.7.1-en/light-3.png",
+      "sha256": "0f53ef86996be53be8688f437811beadeaca9502403c5f66f86ff568e464cc86"
+    },
+    "en-light-live.png": {
+      "source": "android/brand/website-0.7.1-en/light-observe-0.png",
+      "sha256": "78625cdcd67a23150706b6175fc1f58b9d3312db3d22cdaa0a8aaa7b590a392e"
+    },
+    "en-light-parameters.png": {
+      "source": "android/brand/website-0.7.1-en/light-observe-1.png",
+      "sha256": "92e9d1d095e4f0f0e46e5fbb5ee06b072ed6ff0fc3dcb54caa69a9731522c4f5"
+    },
+    "en-light-album.png": {
+      "source": "android/brand/website-0.7.1-en/light-observe-2.png",
+      "sha256": "5fa3d8a43c1346f4cb6c23bec8c661fd67a88d78a5c0d49cc99e4d9d97771ad1"
+    },
+    "en-light-live-4-3.png": {
+      "source": "android/brand/website-0.7.1-en/light-observe-4-3.png",
+      "sha256": "039aa79a55d24c2340012e259af80ba000180495948bea89216aebb04f5e36ae"
+    },
+    "en-light-fullscreen.png": {
+      "source": "android/brand/website-0.7.1-en/light-fullscreen.png",
+      "sha256": "12ef4122484b376f7410144e955b9938d7f5bb3544025c89324501bb33e6f023"
+    }
+  }
+}

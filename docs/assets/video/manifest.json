@@ -1,0 +1,52 @@
+{
+  "width": 3840,
+  "height": 2160,
+  "fps": 30,
+  "duration_seconds": 22,
+  "files": {
+    "luma-split-zh-4k.mp4": {
+      "bytes": 1160582,
+      "sha256": "6e5cabaf7189acae1aa485d347bb231d6b32792777571ef43553eca29d80509e"
+    },
+    "luma-split-en-4k.mp4": {
+      "bytes": 1187106,
+      "sha256": "b31b29f5193db3fafc72b963a83217e7104341880d65e231791b71bf832b4090"
+    },
+    "luma-split-zh-poster.png": {
+      "bytes": 401461,
+      "sha256": "a455f46c582e822f0fd0f297d0f292ab2b0277aa27fdfa448288672c9f31b33e"
+    },
+    "luma-interval-poster.png": {
+      "bytes": 295906,
+      "sha256": "957e0a43321d2227a9be8c9c8318fa257b1825b8e173d597556a82ec34a993ca"
+    },
+    "luma-split-en-poster.png": {
+      "bytes": 386723,
+      "sha256": "85132ed5543f4afdeab56e734153085db673152570e338105b5562ebfec2d064"
+    },
+    "luma-interval-en-poster.png": {
+      "bytes": 265629,
+      "sha256": "f6a3df55ba25275917537c6c711f092c4f2261ce716a48ed57a92a668a74285e"
+    },
+    "luma-interval-en-4k.mp4": {
+      "bytes": 1205941,
+      "sha256": "e0bdf36899cddb173e7e5fbc5768e416369a62fb3969ec85d7e7967d3572be74"
+    },
+    "luma-interval-4k.mp4": {
+      "bytes": 1217259,
+      "sha256": "690bfe16b926e01aa22bb09c9e20fbcb4d227ac3674640c509c069e21d13a393"
+    }
+  },
+  "languages": {
+    "zh": {
+      "video": "luma-split-zh-4k.mp4",
+      "poster": "luma-split-zh-poster.png"
+    },
+    "en": {
+      "video": "luma-split-en-4k.mp4",
+      "poster": "luma-split-en-poster.png"
+    }
+  },
+  "layout": "left camera / right phone; 16:9",
+  "phone_capture": "Samsung S25 FE / Luma 0.7.1 / 272 native state renders per language / no camera commands"
+}

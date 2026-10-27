@@ -1,0 +1,20 @@
+{
+  "repository": "https://github.com/gintmr/gintmr-ui",
+  "commit": "b44a7b9ff46423b839636c257e366dd2dd1c7a60",
+  "version": "0.1.0",
+  "files": {
+    "gintmr-ui.css": {
+      "source": "dist/gintmr-ui.css",
+      "sha256": "a2d31af97e2365c3df9cffb0e8326d4bf8e0e410e5ae4f856cf7318d1cba39b9"
+    },
+    "nav.js": {
+      "source": "src/primitives/nav.js",
+      "sha256": "5b1fa79f990bdc0150051164f60b694d82b2547d391dc1065e798868066a7447"
+    },
+    "LICENSE": {
+      "source": "LICENSE",
+      "sha256": "7ab7b10876099129ef74646668f48c331156fe00570375d7b79f94d8f835e064"
+    }
+  },
+  "selection": "dist CSS + standalone navigation primitive; full JS bundle intentionally not included."
+}

@@ -1,0 +1,28 @@
+{
+  "files": {
+    "CREDITS.md": {
+      "bytes": 563,
+      "sha256": "4183583066908ce4ebb91128968de85130cb2efc55c44fe53184e7fa4fd85397"
+    },
+    "poster.jpg": {
+      "bytes": 189620,
+      "sha256": "f658c2b2e250c160096b036dcf5f3c2b9a2f764b7617a3169508f64e506be5a0"
+    },
+    "luma-douyin-landscape-4x3.png": {
+      "bytes": 1973603,
+      "sha256": "7997d22244a7c80d67610629138c2af855b4bb36f3bf9f18b4014ee068c885c3"
+    },
+    "luma-douyin-square-1x1.png": {
+      "bytes": 2040233,
+      "sha256": "19ddddf1ac32ae8101960fc97c4cba637665a2ac78fa074198c4fe4ee86f2940"
+    },
+    "luma-promo-zh-4k.mp4": {
+      "bytes": 16854382,
+      "sha256": "253105b9113533ebb530b7f6daea15f5c18825e79abeb6c436e33177e478c77b"
+    },
+    "luma-douyin-portrait-3x4.png": {
+      "bytes": 2011589,
+      "sha256": "9763cc19bdfe498fcb1a1076eb53bc01603421ba69c91c106f2f822320545470"
+    }
+  }
+}
